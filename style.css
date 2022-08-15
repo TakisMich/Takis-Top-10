@@ -1,0 +1,197 @@
+.flex{
+    display: flex;
+}
+
+nav p{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+nav a{
+    background-color: lightgrey;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+header a{
+    background-color: lightgrey;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+header p{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+header{
+    background-color: black;
+    font-size: 30px;
+    font-family: fantasy;
+    color: white;
+    padding: 20px;
+}
+
+.evenly{
+    justify-content: space-evenly;
+    background-color: #5BC0BE;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+#login{
+    background-color: #5BC0BE;
+    color: black;
+    border: 2px solid white;
+    padding: 5px;
+}
+
+#sign-up{
+    background-color: #5BC0BE;
+    color: black;
+    border: 2px solid white;
+    padding: 5px;
+}
+
+main{
+    border: 2px solid black;
+    background-color: #CEBEBE;
+    font-family: fantasy;
+}
+
+section img{
+    width: 150px;
+}
+
+.row{
+    flex-direction: row;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.left{
+    float: left;
+    margin-right: 5px;
+}
+
+.right{
+    float: right;
+    margin-left: 5px;
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+img{
+    border: 2px solid black;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+article{
+    border: 2px solid black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+.xwidth{
+    width: 50%;
+}
+
+.big{
+    font-size: x-large;
+}
+
+.bigger{
+    font-size: xx-large;
+}
+
+article p{
+    padding: 5px;
+}
+
+.r{
+    text-align: right;
+}
+
+.thing{
+    justify-content: space-between;
+}
+
+.thing2{
+    justify-content: space-evenly;
+}
+
+.bottom{
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #5BC0BE;
+    padding: 5px;
+    border: 2PX solid black;
+    font-family: fantasy;
+}
+
+.small{
+    width: 70px;
+}
+
+.black{
+    border: 2px solid black;
+}
+
+.size{
+    width: 50%;
+}
+
+.margin{
+    margin: 10px;
+}
+
+.lessmargin{
+    margin: 5px;
+}
+
+.videoborder{
+    border: 5px solid black;
+}
+
+.bottompadding{
+    padding-bottom: 10px;
+}
